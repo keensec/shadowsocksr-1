@@ -53,6 +53,7 @@ To monitor the log:
 
     ./tail.sh
 
+开启ipv4转发，etc/sysctl.conf: net.ipv4.ip_forward = 1
 
 Client
 ------
